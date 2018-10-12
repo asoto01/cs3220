@@ -1,0 +1,10 @@
+<Context>
+
+  <Resource name="jdbc/web_file_tracker" 
+              auth="Container" type="javax.sql.DataSource"
+               maxActive="20" maxIdle="5" maxWait="10000"
+               username="cs3220stu23" password="UcGpJ6tM" 
+               driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://cs3.calstatela.edu:3306/cs3220stu23"/>
+
+</Context>

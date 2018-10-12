@@ -1,0 +1,18 @@
+.center,p,h1,h2 {
+    text-align: center;
+}
+
+.card {
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 10px
+}
+
+.jumbotron {
+    margin-top: 1rem;
+  
+}
+
+body {
+	background-color: #9f0008;
+}
